@@ -1,11 +1,10 @@
-import java.util.ArrayList;
+package Entities;
 import java.util.List;
 import java.util.Random;
 
 public class Admin {
     private String id;
     private String nombre;
-    private String correo;
     private String correo;
     private String password;
     private List<Materia> listamaterias;
